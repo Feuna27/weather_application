@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite + tailwind css + Material UI + Weather API
 
 In the project directory, you can run:
 npm start
@@ -30,7 +30,10 @@ This project is developed by using React+Vite and tailwind css and Visual crossi
 This project aims to provide with the weather conditions of different cities .
 It also provide estimated seven days(1 week) weather conditions with its image representation in the background. 
 It provide you with a search bar to search different cities and also displays the wind speed and humidity of the respected cities.
+
 ![nagpur](https://github.com/Feuna27/weather_application/assets/144164735/a90f8b50-fb6b-4291-b782-0d65be3f54b3)
+
+
 ![manali](https://github.com/Feuna27/weather_application/assets/144164735/503260b9-2c49-4599-af59-92245a4640db)
 
 
